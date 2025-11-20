@@ -259,3 +259,4 @@ proyecto_env/
 *.h5
 *.pkl
 *.npy
+*.pth
